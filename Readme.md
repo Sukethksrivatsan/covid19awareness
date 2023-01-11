@@ -12,6 +12,7 @@
 <p>This is a covid 19 website which has diffrenet sections.This is made using only html,css,javascript.
 You can find various Informations and news.
 </p>
+Codealong exercise done with web development course
 
 
 ![Screenshot 1](https://user-images.githubusercontent.com/72568715/125443620-4e60bcde-c2d3-42cc-ad40-279d59ecd7ea.PNG)
